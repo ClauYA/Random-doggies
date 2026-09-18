@@ -24,4 +24,4 @@ Rocky's Moods is a playful random dog generator that fetches random dog images a
 
 ## Live Demo
 
-[View Live Site](https://clauya.github.io/rocky-moods/)
+[View Live Site](https://clauya.github.io/Random-doggies/)
